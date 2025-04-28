@@ -1,1 +1,2 @@
 # Fashion-store
+#Fashion-store is a full-stack web application built for selling clothing online. It is developed using React, HTML, CSS, JavaScript, and MongoDB. The project provides a user-friendly interface for browsing, selecting, and purchasing fashion items. It features dynamic product displays, interactive design, and secure data handling through MongoDB for managing product inventory and user information.
